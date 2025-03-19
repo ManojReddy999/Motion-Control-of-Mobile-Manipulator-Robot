@@ -1,0 +1,4 @@
+#Ignore Videos either individual or a folder
+/Videos/
+*.mp4
+*.avi
