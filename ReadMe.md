@@ -12,6 +12,11 @@ The goal of this project is to design and implement a control system that enable
 2.  Pick up a cube.
 3.  Place the cube at a target destination.
 
+<video width="640" autoplay loop muted>
+  <source src="videos/Best_Case.gif" type="video/avi">
+  Your browser does not support the video tag.
+</video>
+
 This is achieved through the following key components:
 
 *   **Kinematics Simulator (`NextState.m`):**  Predicts the robot's next state (position and orientation) based on its current state, control inputs (joint and wheel velocities), and a time step.  It uses the Euler method for integration.  This simulates the robot's motion.
@@ -77,16 +82,5 @@ The following MATLAB `.m` files are included:
 *   **`Test_TrajectoryGen.m`:** This script tests only the TrajectoryGenerator.m.
 
 *   **`Final_Project.m`:** It is likely that it can be used as a base to create customized cases.
-
-## Report
-
-The `MAE204_Final_Project_Report.pdf` file contains a detailed report summarizing the project, including:
-
-*   A summary of the project and its objectives.
-*   A description of the implementation, including the three main components (simulator, trajectory generator, controller).
-*   Enhancements and observations made during development.
-*   Results for the different test cases (best case, overshoot, new task, slow convergence, high oscillations), including error plots and links to videos.
-*   A discussion of key concepts and design choices.
-*   Answers to discussion questions.
 
 This README provides a comprehensive guide to understanding, running, and analyzing the code for this project.  Remember to install the necessary dependencies and follow the steps carefully to reproduce the results.
