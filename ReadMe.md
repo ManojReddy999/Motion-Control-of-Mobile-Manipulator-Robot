@@ -12,10 +12,7 @@ The goal of this project is to design and implement a control system that enable
 2.  Pick up a cube.
 3.  Place the cube at a target destination.
 
-<video width="640" autoplay loop muted>
-  <source src="videos/Best_Case.gif" type="video/avi">
-  Your browser does not support the video tag.
-</video>
+![Simulation Preview](Videos/Best_Case.gif)
 
 This is achieved through the following key components:
 
