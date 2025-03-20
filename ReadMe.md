@@ -13,6 +13,8 @@ The goal of this project is to design and implement a control system that enable
 3.  Place the cube at a target destination.
 
 ![Simulation Preview](Videos/Best_Case.gif)
+[![Simulation Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/fprW7P0tV-8?si=Ip1XMJs3CQ5fgqh9)
+
 
 This is achieved through the following key components:
 
