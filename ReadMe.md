@@ -15,6 +15,8 @@ The goal of this project is to design and implement a control system that enable
 
 [![Watch the video](https://img.youtube.com/vi/fprW7P0tV-8/0.jpg)](https://www.youtube.com/watch?v=fprW7P0tV-8)
 
+![Simulation Preview](Videos/Best_Case.gif)
+
 
 This is achieved through the following key components:
 
