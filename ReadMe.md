@@ -12,10 +12,9 @@ The goal of this project is to design and implement a control system that enable
 2.  Pick up a cube.
 3.  Place the cube at a target destination.
 
-
-[![Watch the video](https://img.youtube.com/vi/fprW7P0tV-8/0.jpg)](https://www.youtube.com/watch?v=fprW7P0tV-8)
-
 ![Simulation Preview](Best_Case.gif)
+
+* Watch the full video [here](https://www.youtube.com/playlist?list=PLNTqfp1IsYFb94NbPhJJMrlI-eNQuOVJU)
 
 
 This is achieved through the following key components:
